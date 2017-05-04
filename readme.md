@@ -1,0 +1,2 @@
+### CMSC 254 Machine Learning Neural Network
+This is a simple feedforward neural network in Python that I wrote for an assignment for my Machine Learning class in March 2017. It was used to learn and classify handwritten digits from the MNIST dataset. It is scalable to any number of hidden layers with any number of neurons, and is written with almost exclusively vector operations to increase speed. My original document showing the results over the MNIST set is included in this repository.
